@@ -5,3 +5,16 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Moje minimalne repozytorium
+Date: Fri, 12 Sep 2025 22:05:22 +0000
+MD5Sum:
+ 110fa65eb8687c240645100527c7e434               38 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+SHA1:
+ 319635c26168c66429bf4f1e162df8c0d52ba9b6               38 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+SHA256:
+ 98ad1c965ab377d9bb9c5ed5d357a8730088289e9ebef3b1b394b75327304e38               38 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+SHA512:
+ 38086ccc1a66abde9ef364885235e70a11b3e85f06d42402642faa7dc2f24aaa1a81e669679b3f3620b59fe4d8c90ef27ba898efc09065168f9343f253ebf76b               38 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
