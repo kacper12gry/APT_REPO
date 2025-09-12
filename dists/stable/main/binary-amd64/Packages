@@ -1,10 +1,18 @@
 Package: version-manager-automatyzer
 Version: 0.91
 Architecture: amd64
-Maintainer: Kacper <kacper@kacper-NUC11TNHi5>
+Maintainer: <kacper@kacper-NUC11TNHi5>
 Installed-Size: 22
 Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2
-Filename: version-manager-automatyzer_0.91_amd64.deb
+Filename: ./pool/main/v/version-manager-automatyzer_0.91_amd64.deb
 Size: 7366
 MD5sum: a3825472357823731ed98f3e9be400be
+SHA1: ac7c7f2b88509e2fc818f5cc03e55d907627d640
+SHA256: 62dbb146ef78b62d08ea930950cf0fe5beabb996bca42e0caffcd6afc7097577
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
 Description: GUI do zarządzania wersjami programu Automatyzer
+License: unknown
+Vendor: none
+
