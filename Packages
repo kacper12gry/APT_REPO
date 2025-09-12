@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: <kacper@kacper-NUC11TNHi5>
 Installed-Size: 22
 Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2
-Filename: ../../pool/main/v/version-manager-automatyzer_0.91_amd64.deb
+Filename: version-manager-automatyzer_0.91_amd64.deb
 Size: 7366
 MD5sum: a3825472357823731ed98f3e9be400be
 SHA1: ac7c7f2b88509e2fc818f5cc03e55d907627d640
