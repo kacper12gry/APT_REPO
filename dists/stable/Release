@@ -1,17 +1,21 @@
-Date: Sat, 13 Sep 2025 08:52:28 +0000
+Codename: stable
+Date: Sat, 13 Sep 2025 08:57:45 +0000
+Label: APT_REPO
+Origin: Kacper12gry
+Suite: stable
 MD5Sum:
- 1fda1e7ddc4174089fcbfccebb74c75a               38 Release
+ 887d74b0d70aa1fb814563d333988bbb              105 Release
  0d2c28826726796d1f627983967c1456             1860 main/binary-amd64/Packages
  d4b24e8130a0747cd38a9f10cf3d1745              677 main/binary-amd64/Packages.gz
 SHA1:
- 278ed00ed3cf664d860055f72dbc7647e2f6aaeb               38 Release
+ 07c3a689861ff386372d21fd35975acf1d50db5f              105 Release
  bfdcd22b6e8bd215f70061e1b3543437c7a4d1ea             1860 main/binary-amd64/Packages
  9aa0378e70f5f7239f37e372435db56441e93874              677 main/binary-amd64/Packages.gz
 SHA256:
- e3f23233793ce2efbd728a8539dbbd7267b05673fe4c467b1ee18facdc05738f               38 Release
+ e0d4024e4f2dfb418a33bbf8be2f7e012c5a18beac2f3ebe5725ac2781e1925d              105 Release
  d74b15a91805d22788c2c8c14066fe5e0605185c808b466e217c40fba40d66a9             1860 main/binary-amd64/Packages
  2b61b01ecbdb2b7ac1469417facdab8e0a7de940ddc9cabed82f57072d732e14              677 main/binary-amd64/Packages.gz
 SHA512:
- 5c3761b7d1f9223efda72675c95c36e3b06c01e692728ad06809489f98a4425e08096ac159f6c8c7f2dda11579bb59e9754987949871c6f10ef1e44a2b70bcf0               38 Release
+ bdfdee14e0b554dda3e30c8dfdc6760aaecce758eee4a9ab8169e1d8f135e73975c82cbed9bf6da323057855f055dd58f9db4ffbbf1f080bf9cfc20a74a466d1              105 Release
  273968404499fb8f8624777fbd2afa849ce3e9a2afdbb48dc260160744c3818d6859adc0e42374a2eec06d55c4d65ac4dd7dabb85a3a6c64cd72c3300637f31a             1860 main/binary-amd64/Packages
  0978ed3e557517ef4ae290e6201d12e5552da7cdd9a08b317284f663921315496e26113b04e462f517ba160d949e980ffc109976079bc6c697b1e9df1dd8c729              677 main/binary-amd64/Packages.gz
