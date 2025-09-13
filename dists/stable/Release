@@ -1,3 +1,10 @@
+Origin: Kacper
+Label: APT_REPO
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Moje minimalne repozytorium
 Date: Sat, 13 Sep 2025 08:26:49 +0000
 MD5Sum:
  3db4d4b1db35e943eca76992412eb879               38 Release
