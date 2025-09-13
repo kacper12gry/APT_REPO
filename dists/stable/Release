@@ -1,8 +1,19 @@
+<<<<<<< HEAD
 Codename: stable
 Date: Sat, 13 Sep 2025 08:33:55 +0000
 Label: APT_REPO
 Origin: Kacper
 Suite: stable
+=======
+Origin: Kacper
+Label: APT_REPO
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Moje minimalne repozytorium
+Date: Sat, 13 Sep 2025 08:26:49 +0000
+>>>>>>> 1bd411aac8e389e14756b65971df2b717cfe93b8
 MD5Sum:
  f30dba3ff305aa670f07dd82d2fbc6f9              100 Release
  f408456483e4b50dec71c380f3dd0251             1240 main/binary-amd64/Packages
