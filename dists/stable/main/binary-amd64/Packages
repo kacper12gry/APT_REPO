@@ -1,58 +1,4 @@
 Package: version-manager-automatyzer
-Version: 0.91
-Architecture: amd64
-Maintainer: <kacper@kacper-NUC11TNHi5>
-Installed-Size: 22
-Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2
-Filename: pool/main/v/version-manager-automatyzer_0.91_amd64.deb
-Size: 7366
-MD5sum: a3825472357823731ed98f3e9be400be
-SHA1: ac7c7f2b88509e2fc818f5cc03e55d907627d640
-SHA256: 62dbb146ef78b62d08ea930950cf0fe5beabb996bca42e0caffcd6afc7097577
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: GUI do zarządzania wersjami programu Automatyzer
-License: unknown
-Vendor: none
-
-Package: version-manager-automatyzer
-Version: 0.92
-Architecture: amd64
-Maintainer: <kacper@kacper-NUC11TNHi5>
-Installed-Size: 22
-Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2
-Filename: pool/main/v/version-manager-automatyzer_0.92_amd64.deb
-Size: 7432
-MD5sum: 1f066288c3c43799a46d09f3f6fdf07b
-SHA1: 3f4f10b247d61d3ead84a3b8eaa7f4224539155b
-SHA256: d22efecf6ba8ff5ed93d5dfafc5ebaaa14c6df21f402809ff9fd24476279dca6
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: GUI do zarządzania wersjami programu Automatyzer
-License: unknown
-Vendor: none
-
-Package: version-manager-automatyzer
-Version: 0.93
-Architecture: amd64
-Maintainer: <kacper@kacper-NUC11TNHi5>
-Installed-Size: 22
-Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2
-Filename: pool/main/v/version-manager-automatyzer_0.93_amd64.deb
-Size: 7356
-MD5sum: 1bcdf2f9cc124bef5033848f23f8ee1f
-SHA1: 3a0030c468df31d0ff4c6c9c82a7e8d96a10ed35
-SHA256: a9d8556228d68f19ed0f3100335c9599220c1b3dd3b4e9d1dc6dfda6bf06d5ea
-Section: default
-Priority: optional
-Homepage: http://example.com/no-uri-given
-Description: GUI do zarządzania wersjami programu Automatyzer
-License: unknown
-Vendor: none
-
-Package: version-manager-automatyzer
 Version: 0.94
 Architecture: amd64
 Maintainer: <kacper@kacper-NUC11TNHi5>
@@ -63,6 +9,24 @@ Size: 8826
 MD5sum: ed659af63e7014b7ab67780ad7ed66b1
 SHA1: 7474775577ec50637a00429baccb6a588fad80d8
 SHA256: 601214638a1be5aa7893d9c0a746add5f2f821905c98cdf457081f49c4372801
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: GUI do zarządzania wersjami programu Automatyzer
+License: unknown
+Vendor: none
+
+Package: version-manager-automatyzer
+Version: 0.95
+Architecture: amd64
+Maintainer: <kacper@kacper-NUC11TNHi5>
+Installed-Size: 30
+Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2, python3-pyqt6
+Filename: pool/main/v/version-manager-automatyzer_0.95_amd64.deb
+Size: 9214
+MD5sum: 799258aa4b869bb4bc7d266bfcf945d5
+SHA1: c0169f88a6642b49692a1aeb873124e25f09a2f4
+SHA256: 72f118d722b84f274b0b445abb6af04d286a497a38018237377552b85ed6e775
 Section: default
 Priority: optional
 Homepage: http://example.com/no-uri-given

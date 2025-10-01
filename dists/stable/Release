@@ -1,21 +1,21 @@
 Codename: stable
-Date: Sun, 14 Sep 2025 16:14:03 +0000
+Date: Wed, 01 Oct 2025 17:40:10 +0000
 Label: APT_REPO
 Origin: Kacper12gry
 Suite: stable
 MD5Sum:
- 2aaff068a352b07bd3294bb854a6f00a              105 Release
- 626d48238908603e96068b8b99db02f2             2480 main/binary-amd64/Packages
- 5235a92edd0bdf5a94fbbae0c7cc9d96              784 main/binary-amd64/Packages.gz
+ c47c6b9f1e873da13d93d0b272e2447c              105 Release
+ abd7a7961909a32c53714276323fbd05             1255 main/binary-amd64/Packages
+ 382b3d94d12a1dfabca8d2f727bdfbe1              583 main/binary-amd64/Packages.gz
 SHA1:
- 3f8eb075d90c99a2a19e3d8d57a705bd92bb4709              105 Release
- 34fbcba0e71cd873e043846946268e1e868e7565             2480 main/binary-amd64/Packages
- 788ac96f1328ee79684a1b05b06ae8bc21228b9c              784 main/binary-amd64/Packages.gz
+ fa086b2f3ebb5d54eabd2af91edce650a2210a17              105 Release
+ c473c5008db350d01465368b0da6cb967ba0155b             1255 main/binary-amd64/Packages
+ aaf0c9e1e3981e21bfb21b42b503b11dfdc2e38e              583 main/binary-amd64/Packages.gz
 SHA256:
- 9ae7a221743edf4f07322705ed93005d209372b708f708aeff93e3b413c9b133              105 Release
- f7915c875d6d5286dfc50273ff82f974413b9aa2e3e6fc0e016532cb2128361d             2480 main/binary-amd64/Packages
- d9429b031f944c39267984330570e19f348aa795f9c9bd67088a19bc55919950              784 main/binary-amd64/Packages.gz
+ 803420d60f4e18461bb0d90c449d22907071dafd8d9fac864b629a8d8454fdd9              105 Release
+ cb29410d485e253745f6a2cf35fc5b49b1f8333c1e584b0baef098d175b2c2a9             1255 main/binary-amd64/Packages
+ 729c237b8f332aa735e88af92dc4c8e30f27d9c12a9759916d86a663b760f6ec              583 main/binary-amd64/Packages.gz
 SHA512:
- dfa875d094743e552636e70284eb5d808150576a638f901de0372ab188c596341a007c38d98fe8173f047d49b83c43545b8ff3c122bbf48884b06cb6b3d222c8              105 Release
- b6fcd74154bd90923840af053b48fb5db270906b41eb9e5108edd1a0de9524b1effe401d5604b8149c57adf4a73724bd7f3acfd3b17cdf2511c512c5fdb69083             2480 main/binary-amd64/Packages
- 5bd342d3af76537acf172afe7557a237095e695de0e59bd738608fac323e554555e25ca8e0b5ba0511485889a89f6af6945a3db95ff4df8bc0f091dfca3fb237              784 main/binary-amd64/Packages.gz
+ 77aa16a2a6dbc9652af03f83773c89ec2337d7d562a200c19f25de3644514c862720749c0c96ee5f2e13d66d36c177587da7b1a5c4166f70ac4f649c36d13267              105 Release
+ 5f0d406e6603b0162d15a1c5043f86558c80c000c50cdcf8da9efe9131363652645f997408298e30b784812a4060c74de42cbc17ef6e5bf5897811f22b817652             1255 main/binary-amd64/Packages
+ 1144cfa0b495727320237e34bd4192fa8996d22099a5b8ccc77dfd81e7f8e410550123e5687dbb25dab205c7d4b201e2fb44df26ae89bf5db58648ef2466ab19              583 main/binary-amd64/Packages.gz
