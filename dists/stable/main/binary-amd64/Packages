@@ -34,3 +34,21 @@ Description: GUI do zarządzania wersjami programu Automatyzer
 License: unknown
 Vendor: none
 
+Package: version-manager-automatyzer
+Version: 0.96
+Architecture: amd64
+Maintainer: <kacper@kacper-NUC11TNHi5>
+Installed-Size: 37
+Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-requests, python3-markdown2, python3-pyqt6
+Filename: pool/main/v/version-manager-automatyzer_0.96_amd64.deb
+Size: 10668
+MD5sum: 2b4dc7e9ed9e2af2f3e7f843bb2ebadc
+SHA1: 19229fd539c1d458511830b5b7e1776a12ce420d
+SHA256: 665248f1f08a1b57ac43fa824027937eb629d06cef301ff33edb3d652b5d4e9c
+Section: default
+Priority: optional
+Homepage: http://example.com/no-uri-given
+Description: GUI do zarządzania wersjami programu Automatyzer
+License: unknown
+Vendor: none
+
